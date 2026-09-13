@@ -23,7 +23,6 @@ import matplotlib.pyplot as plt
 api_url = "https://www.kaggle.com/api/v1/datasets/download/cnic92/200-financial-indicators-of-us-stocks-20142018"
 archive_name = "original_financial_data.zip"
 
-# Reuse the API download so we do not send unnecessary requests.
 if not os.path.exists(archive_name):
     urllib.request.urlretrieve(api_url, archive_name)
 

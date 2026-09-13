@@ -8,4 +8,4 @@ GitHub Pages: publish the main branch from /(root). No build system is required.
 
 Python analysis dependencies: pandas and matplotlib. Run stock_analysis.py or open stock_analysis.ipynb in Jupyter. The notebook contains executed results, variable definitions, cleaning commentary, and ethics/limitations.
 
-AI assistance: OpenAI Codex helped implement the site, simplify and execute the project, and draft the written content. Personal education and experience details come from the supplied resume.
+AI assistance disclosure: AI was only used to find sources and to help with a small part of the coding. Personal education and experience details come from the supplied resume.
